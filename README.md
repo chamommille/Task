@@ -1,7 +1,7 @@
 
 <h1 align = "center"> Git and GitHub knowledges<h1>
 
-<h2 align = "center" color = #10454F> Basic commands <h2>
+<h2 align = "center" color = "#BDE038"> Basic commands <h2>
 <h3>
     <table> 
         <tr>
