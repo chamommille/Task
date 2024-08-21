@@ -14,17 +14,19 @@
             <td> pwd </td>
             <td> - </td>
             <td> Узнать путь до текущей директории </td>
+        <tr>
+        <tr>
+            <td rowspan = "3"> cd </td>
+            <td> ~ </td>
+            <td> Перейти к домашней директории <td>
+        <tr>
+        <tr>
+            <td> .. <td>
+            <td> Перейти на уровень выше <td>
         </tr>
         <tr>
-            <td> cd </td>
-            <td>  
-                <table> 
-                    <tr> ~ </tr>
-                    <tr> .. </tr>
-                    <tr> / </tr>
-                </table>
-            </td>
-            <td> Description </td>
+            <td> / </td>
+            <td> Перейти к корневой директории </td>
         </tr>
         <tr>
             <td> Command name </td>
