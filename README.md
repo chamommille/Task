@@ -19,7 +19,7 @@
             <td> cd </td>
             <td>  
                 <table> 
-                    <td> ~ </td>
+                    <td> ~ </td><br>
                     <td> .. </td>
                     <td> / </td>
                 </table>
