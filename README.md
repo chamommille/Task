@@ -12,20 +12,18 @@
         </tr>
         <tr>
             <td> pwd </td>
-            <td>  
-                <table> 
-                    <tr> 
-                        <td> ~ </td>
-                        <td> .. </td>
-                        <td> / </td>
-                    </tr>
-                </table>
-            </td>
+            <td> - </td>
             <td> Узнать путь до текущей директории </td>
         </tr>
         <tr>
-            <td> </td>
-            <td> </td>
+            <td> cd </td>
+            <td>  
+                <table> 
+                    <td> ~ </td>
+                    <td> .. </td>
+                    <td> / </td>
+                </table>
+            </td>
             <td> Description </td>
         </tr>
         <tr>
@@ -38,6 +36,5 @@
             <td> Atributes </td>
             <td> Description </td>
         </tr>
-
     </table>
 </h3>
