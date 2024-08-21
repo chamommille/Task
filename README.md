@@ -19,9 +19,9 @@
             <td> cd </td>
             <td>  
                 <table> 
-                    <td> ~ </td><br>
-                    <td> .. </td>
-                    <td> / </td>
+                    <tr> ~ </tr>
+                    <tr> .. </tr>
+                    <tr> / </tr>
                 </table>
             </td>
             <td> Description </td>
